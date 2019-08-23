@@ -2,6 +2,7 @@ var app = new Vue({
     el: '#app',
     data: {
         product: "Boots",
-        description: 'These are some really beautiful boots.'
+        description: 'These are some really beautiful boots.',
+        image: "./assets/socks.jpg"
     }
 })
